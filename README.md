@@ -37,4 +37,4 @@ This project predicts credit default risk using machine learning. It includes a 
 - See `requirements.txt` for all dependencies.
 
 ## Author
-- Your Name
+Muhammad Israr
